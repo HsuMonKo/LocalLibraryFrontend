@@ -14,15 +14,15 @@ To start the application locally, you will need to launch the React app and the 
 
 ### To launch the Spring Boot app:
 
-1. Launch pgAdmin.
+1. Open pgAdmin to manage your databases.
 
-2. Create a new database with the name 'localLibrary'.
+2. Create a new database named 'localLibrary'.
 
-3. Launch Spring Tool Suit (STS).
+3. Launch Spring Tool Suite (STS) to work on the backend code.
 
-4. Open and edit applications.properties accordingly.
+4. Edit the applications.properties file as necessary to configure the application for your environment.
 
-5. Press the run button.
+5. To run the application, click the "run" button in STS.
 
 ### To launch the React app:
 
