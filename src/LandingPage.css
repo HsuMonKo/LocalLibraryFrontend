@@ -1,0 +1,27 @@
+#action-btn {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border: 1px solid #ff6550;
+    padding: 10px;
+    background-color: #f6ecec;
+}
+
+.box {
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
