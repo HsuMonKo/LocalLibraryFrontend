@@ -18,11 +18,12 @@ To start the application locally, you will need to launch the React app and the 
 
 2. Create a new database named 'localLibrary'.
 
-3. Launch Spring Tool Suite (STS) to work on the backend code.
+3. Launch IDE to work on the backend code. \
+   (e.g. Spring Tool Suite, IntelliJ, etc.)
 
 4. Edit the applications.properties file as necessary to configure the application for your environment.
 
-5. To run the application, click the "run" button in STS.
+5. To run the application, click the "run" button in IDE.
 
 ### To launch the React app:
 
